@@ -1,12 +1,9 @@
-<div align="center">
-
-## Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"/> I'm Wojciech Łapan
+## Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"/>
 
 **Computer Science student at Warsaw University of Technology 🇵🇱**
 
 Passionate about building practical software solutions and continuously improving my skills.
 
-</div>
 
 ---
 
