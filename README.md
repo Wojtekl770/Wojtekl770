@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="2%"/>
 
-<!--
-**Wojtekl770/Wojtekl770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Wojciech Łapan – a Computer Science student at Warsaw University of Technology 🇵🇱
+Passionate about building practical software solutions and continuously improving my skills.
 
-Here are some ideas to get you started:
+### 🎓 Bachelor's Thesis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 Download my Bachelor's Thesis (Polish)
+🌐 Project Website (GitHub Pages)
+
+### 🛠 What I've been working with
+
+### 🚀 Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,python,js,r,matlab,dart,rust)](https://skillicons.dev)
+
+### 🌐 Web & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,vite,html,css,tailwind,flutter)](https://skillicons.dev)
+
+### ☁️ DevOps, Cloud & Other tools
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,linux,git, )](https://skillicons.dev)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=andrucior&theme=gotham&mode=weekly)](https://git.io/streak-stats)
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrzej-kupiec-05683323b/)
